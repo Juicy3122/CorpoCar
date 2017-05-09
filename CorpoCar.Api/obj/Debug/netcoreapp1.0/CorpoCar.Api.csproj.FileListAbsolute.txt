@@ -1,0 +1,12 @@
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Api.deps.json
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Api.runtimeconfig.json
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Api.runtimeconfig.dev.json
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Api.dll
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Api.pdb
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Core.dll
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Infrastructure.dll
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Infrastructure.pdb
+C:\Users\juice\CorpoCar\CorpoCar.Api\bin\Debug\netcoreapp1.0\CorpoCar.Core.pdb
+C:\Users\juice\CorpoCar\CorpoCar.Api\obj\Debug\netcoreapp1.0\CorpoCar.Api.AssemblyInfo.cs
+C:\Users\juice\CorpoCar\CorpoCar.Api\obj\Debug\netcoreapp1.0\CorpoCar.Api.dll
+C:\Users\juice\CorpoCar\CorpoCar.Api\obj\Debug\netcoreapp1.0\CorpoCar.Api.pdb

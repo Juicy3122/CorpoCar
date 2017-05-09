@@ -1,0 +1,8 @@
+C:\Users\juice\CorpoCar\CorpoCar.Infrastructure\bin\Debug\netstandard1.6\CorpoCar.Infrastructure.deps.json
+C:\Users\juice\CorpoCar\CorpoCar.Infrastructure\bin\Debug\netstandard1.6\CorpoCar.Infrastructure.dll
+C:\Users\juice\CorpoCar\CorpoCar.Infrastructure\bin\Debug\netstandard1.6\CorpoCar.Infrastructure.pdb
+C:\Users\juice\CorpoCar\CorpoCar.Infrastructure\bin\Debug\netstandard1.6\CorpoCar.Core.dll
+C:\Users\juice\CorpoCar\CorpoCar.Infrastructure\bin\Debug\netstandard1.6\CorpoCar.Core.pdb
+C:\Users\juice\CorpoCar\CorpoCar.Infrastructure\obj\Debug\netstandard1.6\CorpoCar.Infrastructure.AssemblyInfo.cs
+C:\Users\juice\CorpoCar\CorpoCar.Infrastructure\obj\Debug\netstandard1.6\CorpoCar.Infrastructure.dll
+C:\Users\juice\CorpoCar\CorpoCar.Infrastructure\obj\Debug\netstandard1.6\CorpoCar.Infrastructure.pdb

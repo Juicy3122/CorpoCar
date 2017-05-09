@@ -1,0 +1,15 @@
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Tests.deps.json
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Tests.runtimeconfig.json
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Tests.runtimeconfig.dev.json
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Tests.dll
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Tests.pdb
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Core.dll
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Infrastructure.dll
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Core.pdb
+C:\Users\juice\CorpoCar\CorpoCar.Tests\bin\Debug\netcoreapp1.1\CorpoCar.Infrastructure.pdb
+C:\Users\juice\CorpoCar\CorpoCar.Tests\obj\Debug\netcoreapp1.1\CorpoCar.Tests.AssemblyInfo.cs
+C:\Users\juice\CorpoCar\CorpoCar.Tests\obj\Debug\netcoreapp1.1\CorpoCar.Tests.dll
+C:\Users\juice\CorpoCar\CorpoCar.Tests\obj\Debug\netcoreapp1.1\CorpoCar.Tests.pdb
